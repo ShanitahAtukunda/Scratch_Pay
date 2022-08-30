@@ -1,0 +1,7 @@
+{
+  "ok": false,
+  "data": {
+    "message": "An error happened",
+    "error": "Error: User does not have permissions"
+  }
+}

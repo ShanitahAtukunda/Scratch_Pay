@@ -1,0 +1,48 @@
+{
+  "ok": true,
+  "data": {
+    "session": {
+      "loggedIn": true,
+      "loggedInAt": 1660292389840,
+      "expiresIn": 604800000,
+      "userId": 3,
+      "role": "clinic",
+      "key": "cl6q77yz400740qmn7qe9x78u",
+      "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiZW1haWwiOiJnaWFubmFAaGlnaHRhYmxlLnRlc3QiLCJmaXJzdE5hbWUiOiJHaWFubmEiLCJsYXN0TmFtZSI6IkQnQW50b25pbyIsInN0YXR1cyI6ImFjdGl2ZSIsInJvbGUiOiJjbGluaWMiLCJpYXQiOjE2NjAyOTIzODksImV4cCI6MTY2MDg5NzE4OX0.227Bp9nEdtWe8t28jq_pwPFyH6dIJwSMs29g_ym7vEU"
+    },
+    "auth": true,
+    "permissions": [
+      "can-create-user",
+      "can-read-your-own-user",
+      "can-read-your-clinic-user",
+      "can-update-your-clinic-loans",
+      "can-link-user-to-clinic",
+      "can-update-yourself",
+      "can-delete-user",
+      "can-read-your-own-user",
+      "can-read-other-users",
+      "can-read-your-clinic-user",
+      "can-read-other-clinics-users",
+      "can-update-yourself",
+      "can-update-other-users",
+      "can-update-your-clinics-user",
+      "can-update-all-clinics-users",
+      "can-delete-user",
+      "can-delete-other-users",
+      "can-delete-your-clinics-user",
+      "can-delete-other-clinics-users",
+      "can-read-your-balance",
+      "can-read-others-balance",
+      "can-update-balance",
+      "can-transfer-balance",
+      "can-close-balance",
+      "can-check-blacklist",
+      "can-blacklist-user",
+      "can-update-blacklist",
+      "can-remove-blacklist",
+      "can-add-velocity-counter",
+      "can-reset-one-velocity-counter",
+      "can-reset-multiple-velocity-counters"
+    ]
+  }
+}
